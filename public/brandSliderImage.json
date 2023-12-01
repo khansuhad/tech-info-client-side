@@ -1,0 +1,38 @@
+[
+    {
+        "brandName": "Apple",
+        "image1" :"https://i.ibb.co/37H3wYy/747.png",
+        "image2" :"https://i.ibb.co/Drr8fsT/5f59078de6ff30001d4e7c8e.webp",
+        "image3":"https://i.ibb.co/s9L6LpG/31applehq-01alt-video-Sixteen-By-Nine3000.jpg"
+    },
+    {
+        "brandName": "Google",
+        "image1" :"https://i.ibb.co/tHZ0jKY/580b57fcd9996e24bc43c51f.png",
+        "image2" :"https://i.ibb.co/524Mqc7/Sundar-Pichai.jpg",
+        "image3":"https://i.ibb.co/ZYTT9st/images.jpg"
+    },
+    {
+        "brandName": "Sony",
+        "image1" :"https://i.ibb.co/Dws86ww/Sony-Logo.png",
+        "image2" :"https://i.ibb.co/nLcwNH1/635689219183240095-EPA-JAPAN-SONY.webp",
+        "image3":"https://i.ibb.co/7GNJwCQ/Sony-621x414.jpg"
+    },
+    {
+        "brandName": "Samsung",
+        "image1" :"https://i.ibb.co/1XzGhHc/samsung-logo-on-transparent-background-free-vector.jpg",
+        "image2" :"https://i.ibb.co/fkFScwX/20220105000741-0.jpg",
+        "image3":"https://i.ibb.co/WH8j4Q1/download-4.jpg"
+    },
+    {
+        "brandName": "Toshiba",
+        "image1" :"https://i.ibb.co/C5dTN2t/download-3.png",
+        "image2" :"https://i.ibb.co/SQctysb/toshiba-1200-1649190762.jpg",
+        "image3":"https://i.ibb.co/n3Nw7fh/ogp-image.jpg"
+    },
+    {
+        "brandName": "Intel",
+        "image1" :"https://i.ibb.co/w0Bnm5q/intel-logo-56a6fa195f9b58b7d0e5ce3a.png",
+        "image2" :"https://i.ibb.co/cTWp7wx/ohio-gov-mike-dewine-left-accepts-a-silicon-wafer-from-intel-ceo-pat-gelsinger-on-friday-jan-21-2022.webp",
+        "image3":"https://i.ibb.co/R0Wpvh9/newsroom-robert-noyce-bldg-1-jpg-rendition-intel-web-480-270.jpg"
+    }
+]

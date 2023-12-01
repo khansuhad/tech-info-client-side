@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "image" : "https://i.ibb.co/37H3wYy/747.png"
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "image" : "https://i.ibb.co/1XzGhHc/samsung-logo-on-transparent-background-free-vector.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Google",
+        "image" : "https://i.ibb.co/tHZ0jKY/580b57fcd9996e24bc43c51f.png"
+    },
+    {
+        "id": 4,
+        "brand": "Sony",
+        "image" : "https://i.ibb.co/Dws86ww/Sony-Logo.png"
+    },
+    {
+        "id": 5,
+        "brand": "Intel",
+        "image" : "https://i.ibb.co/w0Bnm5q/intel-logo-56a6fa195f9b58b7d0e5ce3a.png"
+    },
+    {
+        "id": 6,
+        "brand": "Toshiba",
+        "image" : "https://i.ibb.co/C5dTN2t/download-3.png"
+    }
+]
