@@ -2,7 +2,7 @@ This project name is "Tech Info"
 
 here is my live link : [Live Project](https://tech-info-c6535.web.app/)
 
-Five feature of my project 
+Feature of my project :
 
 - 1. This is a technology information related project , here you see some of brand  , if you click that redirect you in that brand page .There you see some slider image of brand also some product of this brand .
 
